@@ -1,4 +1,4 @@
-## UITEstate - Real Estate Brokerage Market
+## Real Estate Brokerage Market
 
 ![alt text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,11 +19,9 @@
 ![alt text](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
-UITEstate is a website which plays an important role in transactions between Real Estate seller and customer, managed by a real estate broker.
+That is a website which plays an important role in transactions between Real Estate seller and customer, managed by a real estate broker.
 ## 📚 Introduction
 ![alt text](https://github.com/minhthuong031103/SE100_RealEstate/blob/dev_Son/public/ReadmeImage/intro.png)
-
-UITEstate - Real Estate Brokerage Market is a web application that helps an individual manage his brokerage office, instead of doing thing in person with a lot of paper works, this web app helps office manager colect information about real estate from the sellers and provide it for the customers. This project has 2 repositories, this introduces you about the customer side wed, you can visit the admin side web repository in this link: https://github.com/minhthuong031103/SE100-admin-estate
 
 Below is the general information about this project.
 ## 🏡 Home
