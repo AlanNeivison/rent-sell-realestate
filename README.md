@@ -39,15 +39,6 @@ This area is designed for agency or company who want to sell their properties. M
 ## 🕵️ Admin
 Designed for admin, real estate broker and office manager too. Admin reviews every post and account information, after pass his review, the post will immediately post into the market.
 ![alt text](https://github.com/minhthuong031103/SE100_RealEstate/blob/dev_Son/public/ReadmeImage/admin.png)
-## 💕 Thanks
-This project almost completed like a real estate brokerage market. However developed by developer team who is still university students and have not enough experiences, this project maybe has some problem. You can visit our deploy website for more experience. Thank you for visiting our project.
-
-I deeply appreciate every member of this team for showing relentless effort for this project.
-
-|  Leader  |  Member | Member | Supporter 
-| ------------- | ------------- | --------------------------|------------------------|
-|[![](https://avatars.githubusercontent.com/u/116157535?size=160)](https://github.com/SonDangUIT1111)|[![](https://avatars.githubusercontent.com/u/101078033?size=160)](https://github.com/minhthuong031103)|[![](https://avatars.githubusercontent.com/u/30335268?size=160)](https://github.com/anhkhoatqt11)|[![]()](https://github.com/huutaiii)
-[Đặng Thái Sơn](https://github.com/SonDangUIT1111)|[Nguyễn Minh Thường](https://github.com/minhthuong031103)|[Trương Anh Khoa](https://github.com/anhkhoatqt11)|[Trương Quốc Tài](https://github.com/huutaiii)
 
 ## ⚙ Deploy on Vercel
 
