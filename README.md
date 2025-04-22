@@ -40,9 +40,3 @@ This area is designed for agency or company who want to sell their properties. M
 Designed for admin, real estate broker and office manager too. Admin reviews every post and account information, after pass his review, the post will immediately post into the market.
 ![alt text](https://github.com/minhthuong031103/SE100_RealEstate/blob/dev_Son/public/ReadmeImage/admin.png)
 
-## ⚙ Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-![Alt](https://repobeats.axiom.co/api/embed/09728e67fa78c31f2735eebf8f3feb7075695039.svg "Repobeats analytics image")
